@@ -15,5 +15,8 @@ public class UtilJava {
 	public void m2() {
 		System.out.println("UtilJava.m2()");
 	}
+	public void m4() {
+		System.out.println("UtilJava.m4()");
+	}
 
 }
