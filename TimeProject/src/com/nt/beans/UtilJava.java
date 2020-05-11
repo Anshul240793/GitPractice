@@ -8,7 +8,7 @@ public class UtilJava {
 		return new Date();
 	}
 	public void m1() {
-		System.out.println("Utility m1() method...1234789");
+		System.out.println("Utility m1() method:1234");
 	}
 
 }
